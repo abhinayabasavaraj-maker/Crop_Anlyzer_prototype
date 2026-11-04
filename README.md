@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crop Analyser — Intelligent Plant Stress Detection and Monitoring System
 ### IoT-Assisted Agricultural Sensing Platform (ESP32 • 660 nm RED • 850 nm NIR)
 
@@ -100,3 +101,6 @@ npm run dev
 7. **Device Management**: ESP32 hardware chamber cards, 12-bit ADC calibration offset diagnostics (dark current, white reference, LED drive mA, supply voltage, WiFi RSSI).
 8. **Reports & Export**: Dynamic CSV file generator (instant browser download via Blob) and printable formal assessment reports with scientific disclosures.
 9. **System Settings**: Configurable provisional threshold sliders, researcher profile management, and live backend ping diagnostics.
+=======
+# Crop_Anlyzer_prototype
+>>>>>>> 57246276f6184b01524bf2de8eba34c19caabae1
